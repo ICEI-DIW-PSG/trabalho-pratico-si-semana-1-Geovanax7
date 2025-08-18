@@ -4,16 +4,17 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Geovana de Souza Ferreira
+Matricula: 901354
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de inspedição](images/inspeçãonavegador.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela de projeto no Replit](images/projetoReplit.png)
+
 
 
 ## Orientações sobre Linguagem MarkDown
