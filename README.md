@@ -4,16 +4,15 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: GEOVANA DE SOUZA FERREIRA
+Matricula: 901354
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![Tela de inspedição com navegador](images/tela_navegador.png)
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela de projeto no Replit](images/projeto_Replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
